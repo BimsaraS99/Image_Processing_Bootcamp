@@ -161,14 +161,3 @@ For interactive coding, you can set up Jupyter Notebook within the environment.
    ```bash
    conda remove -n img_proc --all
    ```
-
----
-
-### **Conclusion**
-Setting up an Anaconda environment for image processing ensures you have a clean, isolated workspace with all the necessary tools. This approach minimizes dependency conflicts and makes managing multiple projects easy.
-
-With your environment ready, you can now dive into image processing tasks, from simple operations to advanced machine learning projects. Happy coding!
-
----
-
-Would you like an additional section for troubleshooting or example scripts to test the setup?
