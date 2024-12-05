@@ -15,6 +15,8 @@ You are given a folder containing images in various formats (e.g., `.png`, `.bmp
 
 See the 'result' and 'image_data' folder and you will understand the task better. 
 
+Download Image_data using "image_data_download.zip"
+
 ---
 
 ### **Learning Outcomes**
