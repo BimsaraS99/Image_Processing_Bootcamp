@@ -13,6 +13,8 @@ You are given a folder containing images in various formats (e.g., `.png`, `.bmp
 3. Resize each image to a resolution of **500x500 pixels**.
 4. Save the processed images into a folder named `results` with filenames numbered sequentially: `1.jpg`, `2.jpg`, `3.jpg`, etc.
 
+See the 'result' and 'image_data' folder and you will understand the task better. 
+
 ---
 
 ### **Learning Outcomes**
