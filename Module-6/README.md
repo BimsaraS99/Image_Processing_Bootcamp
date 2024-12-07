@@ -31,6 +31,9 @@ Your tasks are as follows:
 ### Coding Task:
 
 **Write the Python code to convert an RGB image into grayscale and plot its frequency histogram**
+**Output as Follows:**
+
+![alt text](result.png)
 
 ---
 
