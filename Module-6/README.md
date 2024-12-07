@@ -13,7 +13,7 @@ Your tasks are as follows:
    - Study how an RGB image is converted to grayscale.  
    - Learn about common methods, such as:  
      - **Averaging:** Taking the mean of the R, G, and B components.  
-     - **Luminosity Method:** A weighted sum of R, G, and B channels (e.g., \( \text{Gray} = 0.2989 \times R + 0.5870 \times G + 0.1140 \times B \)), which accounts for human perception of brightness.  
+     - **Luminosity Method:** A weighted sum of R, G, and B channels (Gray = Red * 0.299 + Green * 0.587 + Blue * 0.114), which accounts for human perception of brightness.  
 
 2. **Grayscale Image:**  
    - Understand the properties of a grayscale image:  
