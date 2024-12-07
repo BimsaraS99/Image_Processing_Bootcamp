@@ -70,3 +70,4 @@ By completing this task, students will:
 - Gain a strong theoretical foundation on color spaces in image processing.  
 - Understand the rationale behind choosing specific color spaces for particular tasks.  
 - Develop insights into how human visual perception influences color space design.  
+- Use ChatGPT
