@@ -20,10 +20,10 @@ You are tasked with studying the following color spaces commonly used in image p
    - Value: Represents the brightness of the color.  
    - **Application**: Useful for tasks like color-based segmentation (e.g., detecting red apples against green leaves).  
 
-3. **Lab (Luminance, a*, b*):**  
+3. **Lab (Luminance, a, b):**  
    - L (Luminance): Represents lightness.  
-   - a*: Represents green-red color components.  
-   - b*: Represents blue-yellow color components.  
+   - a: Represents green-red color components.  
+   - b: Represents blue-yellow color components.  
    - **Special Feature**: Perceptually uniform, meaning differences in values correspond closely to human color perception.  
    - **Application**: Ideal for adjusting brightness or performing perceptual color comparisons.  
 
