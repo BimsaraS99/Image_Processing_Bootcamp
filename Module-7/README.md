@@ -1,7 +1,3 @@
-Here’s a task article for a website explaining how to detect an edge in an image and find the equation of the edge line without using the Hough Transform:
-
----
-
 ## Detecting an Edge and Finding its Line Equation without Hough Transform
 
 ### Introduction
@@ -54,10 +50,3 @@ This method is ideal for:
 - Robotics: Determining edges in real-time for navigation.
 - Quality Control: Identifying straight-line defects in manufacturing.
 - Vision Systems: Detecting boundaries in images for further processing.
-
-### Conclusion
-Detecting an edge and computing its equation without the Hough Transform is a straightforward yet effective approach in many scenarios. By following the outlined steps, you can easily achieve this using basic image processing and linear regression techniques.
-
----
-
-Let me know if you’d like any further customization or if you need additional examples!
