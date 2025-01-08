@@ -26,15 +26,6 @@ Find the pixel coordinates of the detected edge. This can be achieved by iterati
 
 #### 5. Perform Linear Regression
 Using the extracted points, fit a straight line to determine its slope (\( m \)) and y-intercept (\( c \)). The steps include:
-   - Compute the mean of the x and y coordinates.
-   - Calculate the slope (\( m \)) using the formula:
-     \[
-     m = \frac{\sum{(x_i - \bar{x})(y_i - \bar{y})}}{\sum{(x_i - \bar{x})^2}}
-     \]
-   - Calculate the y-intercept (\( c \)) using:
-     \[
-     c = \bar{y} - m\bar{x}
-     \]
 
 #### 6. Display Results
 Overlay the detected line on the original image and display its equation \( y = mx + c \). This visualization helps confirm the accuracy of the detection process.
