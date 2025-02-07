@@ -5,7 +5,7 @@ Here's a corrected version of your task description along with the required code
 ### **Task: Contour Area Filtering (Continuation of Module 8)**
 
 #### **Input Image:**
-📌 ![`xor_4CAmpH1i.jpg`](xor_4CAmpH1i.jpg)
+![`xor_4CAmpH1i.jpg`](xor_4CAmpH1i.jpg)
 
 #### **Objective:**
 1. Load the input image and convert it to grayscale.
